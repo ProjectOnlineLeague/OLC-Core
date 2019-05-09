@@ -1,0 +1,11 @@
+[Protocol]
+exec=olc-qt '%u'
+protocol=olc
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

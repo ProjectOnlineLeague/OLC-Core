@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=OLC
+Comment=OLC P2P Cryptocurrency
+Comment[fr]=OLC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OLC, eşten eşe kriptografik sanal para birimi
+Exec=olc-qt %u
+Terminal=false
+Type=Application
+Icon=c2c128
+MimeType=x-scheme-handler/olc;
+Categories=Office;Finance;

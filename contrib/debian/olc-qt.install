@@ -1,0 +1,6 @@
+usr/local/bin/olc-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/olc-qt.desktop usr/share/applications
+debian/olc-qt.protocol usr/share/kde4/services/

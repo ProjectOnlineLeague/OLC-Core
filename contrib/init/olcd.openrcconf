@@ -1,0 +1,26 @@
+# /etc/conf.d/olcd: config file for /etc/init.d/olcd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/olc/olc.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/olcd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/olcd.pid"
+
+# Where to write olcd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/olcd"
+
+# User and group to own olcd process
+#BITCOIND_USER="olc"
+#BITCOIND_GROUP="olc"
+
+# Path to olcd executable
+#BITCOIND_BIN="/usr/bin/olcd"
+
+# Nice value to run olcd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
