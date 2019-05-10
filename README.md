@@ -15,14 +15,15 @@
 
 * [Online-League.io](https://online-league.io/)
 * [EXPLORER](https://explorer.online-league.io/)
+* [EXPLORER2](https://explorer-mn.online-league.io/)
 * [Twitter](https://twitter.com/league_io)
 
 ## Announcement's
 
-* [BitcoinTalk](https://online-league.io/)
-* [Masternodes.online](https://online-league.io/)
-* [Masternodes.pro](https://online-league.io/)
-* [Masternode.live](https://online-league.io/)
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=5141278)
+* [Masternodes.online](https://Masternodes.online/)
+* [Masternodes.pro](https://Masternodes.pro/)
+* [Masternode.live](https://Masternode.live/)
 * [Coinmarketcap.com](https://coinmarketcap.com/)
 
 ## Exchange's
